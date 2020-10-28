@@ -1,5 +1,5 @@
 # JPMorgan Chase Virtual Internship
-This program is provided by JPMorgan Chase. 
+This program is provided by JPMorgan Chase & Co. 
 
 It focuses on using pyhton, reactjs, typescript, nodejs to build a web applications to display data by implementing Perspective, an open-source tool created by JPMorgan Chase, for traders so that they can identify the best moment to sell and purchase their stocks. 
 
