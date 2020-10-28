@@ -9,6 +9,9 @@ This program familiarized me with JPMorgan Chase frameworks and helped me review
 
 ![Certificate](https://user-images.githubusercontent.com/52568892/97084042-d9237c00-15d9-11eb-8bfa-f3577e00c58c.jpg)
 
+## Reference
+https://www.theforage.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/JP-Morgan-Banking-Technology-Virtual-Program
+
 ## License
 
 [MIT](https://github.com/minji-mia/JPMorgan-Chase-Virtual-Internship/blob/master/LICENSE)
