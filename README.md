@@ -11,4 +11,6 @@ This program familiarized me with JPMorgan Chase frameworks and helped me review
 
 https://insidesherpa.s3.amazonaws.com/completion-certificates/JP%20Morgan/R5iK7HMxJGBgaSbvk_JPMorgan%20Chase_zEdLKmMSBsBPSazdf_completion_certificate.pdf
 
+## License
 
+[MIT](https://github.com/minji-mia/JPMorgan-Chase-Virtual-Internship/blob/master/LICENSE)
