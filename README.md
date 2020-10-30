@@ -1,9 +1,22 @@
 # JPMorgan Chase Virtual Internship
 This program is provided by JPMorgan Chase & Co. 
 
-It focuses on using pyhton, reactjs, typescript, nodejs to build a web applications to display data by implementing Perspective, an open-source tool created by JPMorgan Chase, for traders so that they can identify the best moment to sell and purchase their stocks. 
+## Project Overview
 
-This program familiarized me with JPMorgan Chase frameworks and helped me review some knowledge and gain new skills.
+This project consists of 3 tasks.
+
++ Task 1: Interface with a stock price data feed
+
+Interface with a stock price data feed and set up your system for analysis of the data.
+
++ Task 2: Use JPMorgan Chase frameworks and tools
+Implement the Perspective open source code in preparation for data visualization.
+
++ Task 3: Display data visually for traders
+
+Use Perspective to create the chart for the trader’s dashboard.
+
+It focuses on using Pyhton, React, Typescript, HTML, CSS, nodejs to build web applications to display data by implementing Perspective, an open-source tool created by JPMorgan Chase, for traders so that they can identify the best moment to sell and purchase their stocks. 
 
 ## [Certificate of Completion](https://insidesherpa.s3.amazonaws.com/completion-certificates/JP%20Morgan/R5iK7HMxJGBgaSbvk_JPMorgan%20Chase_zEdLKmMSBsBPSazdf_completion_certificate.pdf)
 
