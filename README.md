@@ -26,6 +26,15 @@ It focuses on using Pyhton, React, Typescript, HTML, CSS, nodejs to build web ap
 ## Reference
 https://www.theforage.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/JP-Morgan-Banking-Technology-Virtual-Program
 
+## Built with
+
+- [Python 3.7](https://www.python.org/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
+- [Node.js](https://nodejs.org/en/)
+
 ## License
 
-[MIT](https://github.com/minji-mia/JPMorgan-Chase-Virtual-Internship/blob/master/LICENSE)
+This project is licensed under the [MIT](https://github.com/minji-mia/JPMorgan-Chase-Virtual-Internship/blob/master/LICENSE) License
